@@ -1,0 +1,1 @@
+{"version":3,"file":"index.umd.js","sources":["../lib/index.js"],"sourcesContent":["const Button = require('./MrButton');\nmodule.exports = {\n  Button,\n};"],"names":["Button","require","module","exports"],"mappings":"6EAAA,IAAYA,EAAGC,QAAQ,cACvBC,OAAOC,QAAU,CACfH,OAAAA"}
